@@ -1,0 +1,12 @@
+{
+  "name": "vipcommerce-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Vitoriano/vipcommerce-backend.git",
+  "author": "Vitoriano Ernandes",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.15.0",
+    "express": "^4.17.1"
+  }
+}
